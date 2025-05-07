@@ -1,0 +1,10 @@
+/.venv
+/__pycache__
+/aligned_faces
+/compared_faces_effv2s
+/compared_faces_r100magface
+/compared_faces_r100adaface
+/embedded_faces
+/Keras_insightface
+/models
+/sample_images

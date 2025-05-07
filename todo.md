@@ -1,0 +1,3 @@
+face_recognition.pyは現在effv2s magfaceしかモデルが使用できないが、複数モデル(r100 magface r100 adaface r100 12m adaface)を使えるように改善する。
+aligned_facesのface_0とembedded_facesのface_0.npyが違う可能性が出てきた。わんちゃんばらばらになってるせいで、精度がおかしい、、？これを検証(質問)する
+余裕があったら、embedding_historyの変更はいらないのでこれを消す。もっと簡略化する。detect_faces.pyも変える。
