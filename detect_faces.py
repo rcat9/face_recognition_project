@@ -8,7 +8,7 @@ import glob
 import time
 import concurrent.futures
 
-sys.path.append('./Keras_insightface')
+
 from face_detector import YoloV5FaceDetector
 
 # 画像の最大サイズを制限する関数
